@@ -2,7 +2,7 @@
 
 En esta práctica aprenderemos a crear una página de [WordPress](https://wordpress.com/es/) visible, conectada desde un servidor con la ayuda de la plataforma de [Azure](https://azure.microsoft.com/es-mx/) de la empresa de Microsoft.
 
-![Logo de Azure](imagenes\azure.png) ![Logo de WP](imagenes\wordpreess.png)
+![Logo de Azure](https://github.com/OrlandoM117/S2P1-CreacionWordPress/blob/master/imagenes/azure.png) ![Logo de WP](imagenes\wordpreess.png)
 
 -------------------------
 ## **Requisitos**
